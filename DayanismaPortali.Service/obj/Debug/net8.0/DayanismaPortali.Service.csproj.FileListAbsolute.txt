@@ -1,0 +1,70 @@
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.deps.json
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.runtimeconfig.json
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfoInputs.cache
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfo.cs
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\refint\DayanismaPortali.Service.dll
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.genruntimeconfig.cache
+C:\Users\90535\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\ref\DayanismaPortali.Service.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.deps.json
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.runtimeconfig.json
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.AssemblyReference.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfoInputs.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfo.cs
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.CoreCompileInputs.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\refint\DayanismaPortali.Service.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.genruntimeconfig.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\ref\DayanismaPortali.Service.dll
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.deps.json
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.runtimeconfig.json
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfoInputs.cache
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfo.cs
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\refint\DayanismaPortali.Service.dll
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.genruntimeconfig.cache
+C:\Users\tugru\source\repos\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\ref\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.deps.json
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.runtimeconfig.json
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.AssemblyReference.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfoInputs.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfo.cs
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\refint\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.genruntimeconfig.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\DayanismaPortali.Service\obj\Debug\net8.0\ref\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.deps.json
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.runtimeconfig.json
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\bin\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.AssemblyReference.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfoInputs.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.AssemblyInfo.cs
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\refint\DayanismaPortali.Service.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.pdb
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\DayanismaPortali.Service.genruntimeconfig.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\DayanismaPortali.Service\obj\Debug\net8.0\ref\DayanismaPortali.Service.dll

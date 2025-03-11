@@ -1,0 +1,751 @@
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.exe
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.deps.json
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.runtimeconfig.json
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.Form1.resources
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciGirisUI.resources
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfoInputs.cache
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfo.cs
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanism.CE9DD149.Up2Date
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\refint\Dayanisma_Portali.UI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.genruntimeconfig.cache
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\ref\Dayanisma_Portali.UI.dll
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciSayfasiUI.resources
+C:\Users\90535\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciKayitUI.resources
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.exe
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.deps.json
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.runtimeconfig.json
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.AssemblyReference.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.Form1.resources
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciGirisUI.resources
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciKayitUI.resources
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciSayfasiUI.resources
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.GenerateResource.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfoInputs.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfo.cs
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.CoreCompileInputs.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanism.CE9DD149.Up2Date
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\refint\Dayanisma_Portali.UI.dll
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.genruntimeconfig.cache
+C:\Users\tugru\OneDrive\Masaüstü\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\ref\Dayanisma_Portali.UI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.exe
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.deps.json
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.runtimeconfig.json
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.AssemblyReference.cache
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.Form1.resources
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciGirisUI.resources
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciKayitUI.resources
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciSayfasiUI.resources
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.GenerateResource.cache
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfoInputs.cache
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfo.cs
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.CoreCompileInputs.cache
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanism.CE9DD149.Up2Date
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\refint\Dayanisma_Portali.UI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.genruntimeconfig.cache
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\ref\Dayanisma_Portali.UI.dll
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakıfGirisUI.resources
+C:\Users\tugru\source\repos\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakifAnaSayfaUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.exe
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.deps.json
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.runtimeconfig.json
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.AssemblyReference.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.Form1.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciGirisUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciKayitUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciSayfasiUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakifAnaSayfaUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakıfGirisUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.GenerateResource.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfoInputs.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfo.cs
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanism.CE9DD149.Up2Date
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\refint\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.genruntimeconfig.cache
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\ref\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakifKayitUI.resources
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\DayanismaPortali\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.exe
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.deps.json
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.runtimeconfig.json
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.AssemblyReference.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.Form1.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciGirisUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciKayitUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.KullaniciSayfasiUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakifAnaSayfaUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakifKayitUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.VakıfGirisUI.resources
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.GenerateResource.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfoInputs.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.AssemblyInfo.cs
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanism.CE9DD149.Up2Date
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\refint\Dayanisma_Portali.UI.dll
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.pdb
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\Dayanisma_Portali.UI.genruntimeconfig.cache
+C:\Users\Nusret\Desktop\Dayanışma Portalı\DayanismaPortaliUygulama\Dayanisma_Portali.UI\obj\Debug\net8.0-windows\ref\Dayanisma_Portali.UI.dll
